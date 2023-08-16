@@ -1,0 +1,11 @@
+{
+    // other settings...
+    "ts-node": {
+      "module": "commonjs",
+      "esm": true,
+      "experimentalSpecifierResolution": "node",
+      "compilerOptions": {
+        "esModuleInterop": true,
+    }
+   }
+}
